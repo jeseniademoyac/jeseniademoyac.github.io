@@ -230,4 +230,7 @@ p{
 		display: inline-block;
 		margin: 0 200px 0 300px;
 	}
+	@-ms-viewport{
+		width: device-width;
+	}
 }
